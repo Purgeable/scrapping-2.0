@@ -5,6 +5,13 @@ sites. But will there be more of this type of work or less? Should parsing proje
 differently, than they are now? Do clients always know what they want? Are they getting a 
 good return on their investment?
 
+Is market for parsing jobs growing or declining?
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPM1A776W8MK0V0HPTSBCQGM/growing)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPM1A776W8MK0V0HPTSBCQGM/growing/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPM1A776W8MK0V0HPTSBCQGM/declining)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPM1A776W8MK0V0HPTSBCQGM/declining/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPM1A776W8MK0V0HPTSBCQGM/so-so)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPM1A776W8MK0V0HPTSBCQGM/so-so/vote)
+
+
 I can see several directions where this discussion can head:
 
 - best practices for freelancers (if people want to share, I personally vote up a glossary or terms/slang)
@@ -15,7 +22,7 @@ I can see several directions where this discussion can head:
   kind of hate Upwork and Freelance.com even more, even though I've met great people there and learned 
   a lot from them)
 
-Which directions for this discussion group you'd endorse:
+Which direction for this discussion group you'd endorse:
 
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/share%20best%20practices)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/share%20best%20practices/vote)
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/checklists%20for%20client)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/checklists%20for%20client/vote)
