@@ -15,17 +15,14 @@ I can see several directions where this discussion can head:
   kind of hate Upwork and Freelance.com even more, even though I've met great people there and learned 
   a lot from them)
 
-Which directions for this discussion group you'd endorse (experimental poll tool from gh-poll):
+Which directions for this discussion group you'd endorse (experimental tool from [gh-poll](https://github.com/tj/gh-polls)):
 
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/share%20best%20practices)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/share%20best%20practices/vote)
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/checklists%20for%20client)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/checklists%20for%20client/vote)
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/parsing%20market%20stats)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/parsing%20market%20stats/vote)
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/new%20marketplace%20for%20parsing%20jobs)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/new%20marketplace%20for%20parsing%20jobs/vote)
 
-
-Both softare developpers and client side people are welcome to join the discussion. Feel free to comment on 
-at [issue 1](https://github.com/epogrebnyak/scrapping-2.0/issues/1) about your happy/sad experiences with scrapping/parsing
-and disucssion group goals. 
+Please comment at [issue 1](https://github.com/epogrebnyak/scrapping-2.0/issues/1) about your happy/sad experiences with scrapping/parsing projects and about what this discussion group better do for you. 
 
 -----------
 
