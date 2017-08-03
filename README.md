@@ -15,7 +15,7 @@ I can see several directions where this discussion can head:
   kind of hate Upwork and Freelance.com even more, even though I've met great people there and learned 
   a lot from them)
 
-Which directions for this discussion group you'd endorse (experimental tool from [gh-poll](https://github.com/tj/gh-polls)):
+Which directions for this discussion group you'd endorse:
 
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/share%20best%20practices)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/share%20best%20practices/vote)
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/checklists%20for%20client)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BPKZSN5AS4119H369DBKFTCW/checklists%20for%20client/vote)
